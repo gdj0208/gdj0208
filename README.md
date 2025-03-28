@@ -1,5 +1,5 @@
 ## 🚀 About Me  
-🇰🇷 Korean
+🇰🇷 Korean  
 🔹 KDMHS WP 16 : Graduated  
 🔹 SJU Computer Engineering : Senior  
 🔹 Blood Doner  
