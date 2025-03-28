@@ -1,4 +1,4 @@
-## 🚀 About Me
+## 🚀 About Me  
 🇰🇷 Korean
 🔹 KDMHS WP 16 : Graduated  
 🔹 SJU Computer Engineering : Senior  
