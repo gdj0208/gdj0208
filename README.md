@@ -1,5 +1,9 @@
-## Hi there 👋
+## D.J.Koo
+🔹 KDMHS 16th 
+🔹 SJU Computer Engineering
+🔹 Blood Doner
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gdj0208)](https://solved.ac/gdj0208)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdj0208&layout=Demo&theme=tokyonight)
 <!--
 **gdj0208/gdj0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
