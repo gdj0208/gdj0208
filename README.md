@@ -1,7 +1,8 @@
 ## 🚀 About Me
-🔹 KDMHS 16th : Graduated
-🔹 SJU Computer Engineering : Senior
-🔹 Blood Doner
+🔹 KDMHS 16th : Graduated  
+🔹 SJU Computer Engineering : Senior  
+🔹 Blood Doner  
+[Instagram](https://www.instagram.com/yourusername/)
 
 ## 📊 Programing Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gdj0208&show_icons=true&theme=radical)
