@@ -7,6 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gdjsun@naver.com)
 
 ## 📊 Programing Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gdj0208&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gdj0208&layout=compact&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gdj0208)](https://solved.ac/gdj0208)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gdj0208&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gdj0208&layout=compact&theme=radical)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gdj0208)](https://solved.ac/gdj0208)  
