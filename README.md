@@ -1,5 +1,6 @@
 ## 🚀 About Me
-🔹 KDMHS 16th : Graduated  
+🇰🇷 Korean
+🔹 KDMHS WP 16 : Graduated  
 🔹 SJU Computer Engineering : Senior  
 🔹 Blood Doner  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gdj0208/)
