@@ -1,7 +1,9 @@
 ## 🚀 About Me  
 🇰🇷 Korean  
 🔹 KDMHS WP 16 : Graduated  
-🔹 SJU Computer Engineering : Senior  
+🔹 Sejong University : Senior  
+  - Major : Computer Engineering
+  - Minor : Buisness Administration
 🔹 Blood Doner  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gdj0208/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gdjsun@naver.com)
