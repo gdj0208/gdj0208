@@ -11,6 +11,11 @@
 
 
 
+## 🌏 Language available  
+🇰🇷 Korean  
+🇺🇸 English  
+
+
 ## 📝 Certification
 🔹 ADsP (Advanced Data Analytics Semi-Professional) : 국가공인 데이터분석 준전문가  
 🔹 TOEIC 885  
@@ -22,8 +27,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gdj0208&layout=compact&theme=radical)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gdj0208)](https://solved.ac/gdj0208)  
 
-
-
-## 🌏 Language available  
-🇰🇷 Korean  
-🇺🇸 English  
