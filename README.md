@@ -19,6 +19,7 @@ My blog : https://gdj0208.tistory.com
 ## 📝 Certification
 🔹 ADsP (Advanced Data Analytics Semi-Professional) : 국가공인 데이터분석 준전문가  
 🔹 TOEIC 885  
+🔹 OPIC IH  
 <br>
 
 
